@@ -48,7 +48,7 @@ void close(void)
 void new_acc()
 
 {
-
+    // start code
     int choice;
     FILE *ptr;
 
